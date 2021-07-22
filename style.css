@@ -1,0 +1,22 @@
+.container {
+    border: 1px solid black;
+    margin: 16px;
+    padding: 16px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #f2709c, #ff9472);
+    font-style: italic;
+  }
+  span {
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  p {
+    text-indent: 50px;
+    text-align: justify;
+  }
